@@ -8,6 +8,6 @@ int main() {
     cout << "| |__| (_) | (__|   <   |  _| (_) | | | (_|  __/  \n";
     cout << " \\____\\___/ \\___|_|\\_\\  |_|  \\___/|_|  \\___\\___|  \n";
     cout << "                                                \n";
-    cout << "             Welcome to CodeForge!               \n";
+    cout << "             Welcome to CockForce!               \n";
     return 0;
 }
